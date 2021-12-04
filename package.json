@@ -1,0 +1,23 @@
+{
+  "name": "novo_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Intern-Yago/portfolio2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Intern-Yago/portfolio2.0/issues"
+  },
+  "homepage": "https://github.com/Intern-Yago/portfolio2.0#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
