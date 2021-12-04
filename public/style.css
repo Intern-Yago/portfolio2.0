@@ -10,7 +10,10 @@
     padding: 0;
 }
 
+
 body{
+    color: var(--text-color);
+    background-color: var(--body-bg-color);
     display: grid;
     height: 100vh;
     grid-template-areas: "aside main";
@@ -24,4 +27,8 @@ aside{
 
 main{
     grid-area: main;
+}
+
+.lateral{
+    background-color: var(--bg-cards);
 }
